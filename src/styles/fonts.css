@@ -1,0 +1,9 @@
+/* src/styles/fonts.css */
+
+@font-face {
+  font-family: "StarJedi"; /* Nombre de la fuente que usarás */
+  src: url("../styles/StarjediSpecialEdition-9Bqy.ttf") format("truetype")
+    local(StarJedi); /* Ruta relativa a tu archivo TTF */
+  font-weight: normal;
+  font-style: normal;
+}
